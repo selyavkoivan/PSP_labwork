@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56255cbe-6c3b-4279-aff6-0fb259e29a7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../labwork-iii-a/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labwork-iii-a/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labwork-iii-a/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labwork-iii-a/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labwork-iii-a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../labwork-iii-a/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../labwork-client/src/clienttcp/ClientTCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servertcp/Forecast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servertcp/ServetTCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servertcp/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labwork-ii/labword-ii-b/src/com/company/GameDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labwork-ii/labword-ii-b/src/com/company/GameDisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labwork-ii/labwork-ii-a/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labwork-ii/labwork-ii-a/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../labwork-iii/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../labwork-iii/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labwork-iv-a/labwork-iv-client/src/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labwork-iv-a/labwork-iv-client/src/client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labwork-iv-a/labwork-iv-server/src/server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labwork-iv-a/labwork-iv-server/src/server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labwork-iv-b/labwork-iv-client/src/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labwork-iv-b/labwork-iv-client/src/UDPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../labwork-iv-b/labwork-iv-server/src/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../labwork-iv-b/labwork-iv-server/src/UDPServer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1zii7oanSWao8MJjfgqzeIwfnCK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../labwork-client" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servertcp.ServerTCP" />
+      <module name="labwork-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56255cbe-6c3b-4279-aff6-0fb259e29a7e" name="Changes" comment="" />
+      <created>1634637150239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634637150239</updated>
+      <workItem from="1634637152967" duration="908000" />
+      <workItem from="1634662371761" duration="5858000" />
+      <workItem from="1634677330507" duration="1876000" />
+      <workItem from="1634679289577" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
